@@ -1,0 +1,5 @@
+Integrated Pest Management (IPM) prioritizes cultural and biological controls before chemical intervention: crop rotation, resistant varieties, field sanitation, pheromone traps for monitoring, and conserving natural predators (ladybird beetles, spiders, parasitic wasps).
+
+Economic threshold levels (ETL) should guide spray decisions rather than spraying preventively on a calendar. Spraying below ETL wastes input cost and accelerates resistance development in pest populations.
+
+Weather matters for spray timing: avoid spraying before forecast rain (within 6-8 hours) since most contact and systemic pesticides need a dry window to be effective, and avoid spraying during high wind (above ~15 km/h) to prevent drift.

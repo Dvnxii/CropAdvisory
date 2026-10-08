@@ -1,0 +1,5 @@
+Nitrogen deficiency in cereal crops (wheat, rice, maize) shows as uniform yellowing (chlorosis) starting from older, lower leaves and moving upward, since nitrogen is mobile within the plant. Growth is stunted and tillering is reduced.
+
+Correction: split nitrogen application into 2-3 doses timed with crop growth stages rather than one basal dose, since a single heavy dose is prone to leaching, especially in sandy or high-rainfall soils. Urea, DAP, or ammonium sulfate are common sources; foliar urea spray (1-2%) gives a faster response for standing crops already showing symptoms.
+
+Overuse risk: excess nitrogen delays maturity, increases lodging risk in cereals, and can suppress fruit/grain set in favor of vegetative growth. Soil nitrate testing before top-dressing helps avoid over-application.

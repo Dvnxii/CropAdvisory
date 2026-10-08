@@ -1,0 +1,5 @@
+Irrigation scheduling should be based on crop growth stage, soil moisture depletion, and weather forecast rather than a fixed calendar. Critical growth stages most sensitive to water stress (e.g. flowering and grain-filling in cereals, flowering and boll development in cotton) should never be allowed to reach severe moisture deficit.
+
+Rule of thumb for many field crops: irrigate when readily available soil moisture drops to 50% depletion, checked via feel-method, tensiometer, or soil moisture sensor at root-zone depth.
+
+Skip or delay irrigation when a forecast shows more than 15-20mm of rain within 48 hours to avoid waterlogging and wasted water/energy. Drip and sprinkler systems allow finer scheduling control than flood irrigation and reduce water use by 30-50% in most row crops.

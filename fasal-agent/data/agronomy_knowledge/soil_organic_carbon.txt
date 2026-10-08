@@ -1,0 +1,5 @@
+Soil organic carbon (SOC) is a primary indicator of long-term soil health: it improves water-holding capacity, nutrient cycling, microbial activity, and soil structure. Indian agricultural soils commonly range from below 0.5% SOC (low, degraded) to above 1.5% (high, well-managed).
+
+Practices that raise SOC over 3-5 years: incorporating crop residue instead of burning it, green manuring with legumes (dhaincha, sunhemp), farmyard manure or compost application, reduced tillage, and cover cropping in fallow periods.
+
+Low SOC soils typically also show poor nitrogen-use efficiency, since microbial nitrogen cycling depends on organic matter; SOC improvement and fertilizer efficiency should be addressed together rather than treating fertilizer dose as the only lever.
